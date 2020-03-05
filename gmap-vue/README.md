@@ -1,7 +1,5 @@
 # gmap-vue
 
-> projet 7 openclassrooms
-
 ## Build Setup
 
 ## 1rst step :
@@ -25,3 +23,5 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+You need a Google API key to be able to make it work.
