@@ -1,7 +1,5 @@
 # gmap-vue
 
-## Build Setup
-
 ## 1rst step :
 ## Install node.js
 
@@ -24,4 +22,5 @@ $ npm run generate
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
 
-You need a Google API key to be able to make it work.
+You need a Google Places API key to be able to make it work.
+You need to enter it into Gmap-Vue/gmap-vue/plugins/gmap.js file, line 7.
